@@ -1,4 +1,4 @@
-#Odin Landing Page
+# Odin Landing Page
 
 This project is a simple yet visually appealing cricket-themed webpage that highlights the various formats of cricket, including Test Matches, One-Day Internationals (ODIs), and T20 Matches.
 It features a clean and responsive design, with sections showcasing cricket highlights, a motivational quote by a South African player, and a call-to-action to engage users further. The webpage uses HTML for the structure and CSS for styling, 
